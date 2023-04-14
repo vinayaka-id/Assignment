@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,100&display=swap');
+
+marquee{
+    color: rgba(245, 215, 44, 0.856);
+}
+
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+
+.sidebar{
+    background-color:rgb(83, 81, 81) ;
+    width: 20vw;
+    font-family: 'Fira+Sans:ital';
+} 
+
+.main{
+    background-color: rgb(223, 230, 229);
+    width: 80vw;
+
+}
+.container{
+    display: flex;
+}
+body {
+    background-image: url("image1.jpg");
+    background-color: #1f1c2f;
+   }
+
+   h1{
+    text-align: center;}
+
+    /*other styling*/
+    body{
+        color:rgb(239, 227, 227);
+    }
+
+    .header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100p%;
+        padding: 20px 10%
+        background: transparent;
+    }
+    
+       
+        table, td{
+            border: 3px solid rgb(239, 234, 234); 
+        }
+    u{
+        background-color: rgb(105, 74, 112);
+    }
+    h2{
+        
+        text-transform: uppercase;
+        width: 100%;
+        text-align: left;
+     
+        
+    }
+#borderimg{
+border-image: url(IMG_20221225_193333.jpg) 30;
+}
+    
